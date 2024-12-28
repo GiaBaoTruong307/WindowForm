@@ -1,0 +1,16 @@
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\BTN.csproj.AssemblyReference.cache
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\BTN.DangNhap.resources
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\BTN.DoUong.resources
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\BTN.CTUD.resources
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\BTN.KhachHang.resources
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\BTN.TrangChu.resources
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\BTN.csproj.GenerateResource.cache
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\BTN.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.HoaDon.resources
+C:\Users\nguye\Source\Repos\Chinh\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.HoaDonChiTiet.resources
